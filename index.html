@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sukanya Samriddhi Yojana</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="calculator">
+        <h1>Sukanya Samriddhi Yojana Calculator</h1>
+        <form><label for="deposit-amount">Deposit Amount:</label>
+            <input type="number" id="deposit-amount" required>
+            <br><br>
+            <label for="deposit-frequency">Deposit Frequency:</label>
+            <select id="deposit-frequency" required>
+                <option value="Monthly">Monthly</option>
+                <option value="Quarterly">Quarterly</option>
+                <option value="Half-Yearly">Half-Yearly</option>
+                <option value="Yearly">Yearly</option>
+            </select>
+            <br><br>
+            <label for="deposit-tenure">Deposit Tenure (Years):</label>
+            <input type="number" id="deposit-tenure" required>
+            <br><br>
+            <label for="interest-rate">Interest Rate(%):</label>
+            <input type="number" id="interest-rate" value="7.6" required>
+            <br><br>
+            <button id="calculate-btn">Calculate</button>
+            
+        </form>
+        <div class="result"></div>
+    </div>
+    
+    <script src="/script.js" defer></script>
+</body>
+</html>
