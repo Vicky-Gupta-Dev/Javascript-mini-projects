@@ -117,18 +117,10 @@ Currently, I’m expanding my skillset into Backend Development, focusing on Nod
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" /></p>
 <h3 align="left">🛠️Tech Stack🛠️</h3>
  <p align="center">Frontend:  
+ <img scr= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
-Animation:  
-<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>  
-Backend:  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
 Database:  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></p><br>
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 <br>
