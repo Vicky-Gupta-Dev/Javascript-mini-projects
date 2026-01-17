@@ -80,6 +80,24 @@ A modern React app that shows real-time country data using REST API.
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+ <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/>
+</p>
+<h2 align="center">🔗 Connect with me:</h2>
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#all"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://samarjit.vercel.app">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vicky-kumar-gupta-03344b352">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/></a>
+</p>
+<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
+
 
 ---
 
