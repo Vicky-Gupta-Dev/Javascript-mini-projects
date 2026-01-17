@@ -20,7 +20,10 @@
 ---
 
 ## 🛠️ Tech Stack
-
+<p align="left">
+  📢 Disclaimer
+The information provided in this README is true and correct to the best of my knowledge. I take full responsibility for the accuracy of the details mentioned herein. A responsive frontend web application built using React.js, HTML5, CSS3, and JavaScript. The app fetches and displays country details (flag, name, population, region, capital, etc.) using REST Countries API
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
