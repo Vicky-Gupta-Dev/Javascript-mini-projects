@@ -1,7 +1,3 @@
-# Javascript-mini-projects
-<<<<<<< HEAD
-=======
-
 # VickyBrandCoding
 <h1 align="center">Hi 👋, I'm Vicky Kumar Gupta</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
@@ -55,8 +51,6 @@ A web app that displays detailed information about countries including flags, po
   
 <h3 align="left">💻Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"></a></p>
-  
----
 
 🎯 Hobbies & Interests
 - Web Development
@@ -152,4 +146,3 @@ Database:
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/></a>
 </p>
 <p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
->>>>>>> 4d212d0bf477883e5ef4a6bd628a92f8c45de408
